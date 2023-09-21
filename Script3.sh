@@ -4,5 +4,5 @@ echo "This is error script"
 echo "This is my system path $PATH"
 
 
-echo "This is script3 modified"
-echo "Welcome to Batch2023"
+#echo "This is script3 modified"
+#echo "Welcome to Batch2023"
